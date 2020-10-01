@@ -1,2 +1,2 @@
 # Projeto Login com Session
-MVC, MYSQL, Servlet, HttpSession
+Tecnologias Usadas: MVC, MYSQL, Servlet, HttpSession
