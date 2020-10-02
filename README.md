@@ -1,13 +1,13 @@
 # Projeto Login com Session
 
 ###Tecnologias Usadas: 
--MVC, 
--MYSQL vs. 5.1.23,
--Servlet, 
--CSS, 
--HttpSession, 
--Criptografia MD5, 
--JSP;
+- MVC, 
+- MYSQL vs. 5.1.23,
+- Servlet, 
+- CSS, 
+- HttpSession, 
+- Criptografia MD5, 
+- JSP;
 
 Neste projeto o cliente entra no site utilizando seu email e sua senha, caso não possua uma conta é necessário se cadastrar:
 <img src="https://i.imgur.com/mD5LC5e.jpg">
