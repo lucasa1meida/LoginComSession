@@ -1,4 +1,5 @@
 # Projeto Login com Session
+Tecnologias Usadas: MVC, MYSQL vs. 5.1.23, Servlet, CSS, HttpSession, Criptografia MD5, JSP;
 
 Neste projeto o cliente entra no site utilizando seu email e sua senha, caso não possua uma conta é necessário se cadastrar:
 <img src="https://i.imgur.com/mD5LC5e.jpg">
@@ -22,4 +23,4 @@ Salvando no Banco de Dados com a senha criptografada:
 Segurança: Ao tentar entrar na url do sistema diretamente o sistema não permite, pois é necessário estar logado.
            Sua senha será salva criptografada.<br/>
 
-Tecnologias Usadas: MVC, MYSQL, Servlet, CSS, HttpSession, Criptografia MD5, JSP;
+
