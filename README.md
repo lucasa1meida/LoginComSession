@@ -19,8 +19,8 @@ Colocando o email e senha corretos você consegue acessar a página:
 Salvando no Banco de Dados com a senha criptografada:
 <img src="https://i.imgur.com/95c2ojL.jpg">
 
--Observações-
-Segurança: Ao tentar entrar na url do sistema diretamente o sistema não permite, pois é necessário estar logado.
+-Observações-<br/>
+Segurança: Ao tentar entrar na url do sistema diretamente o sistema não permite, pois é necessário estar logado.<br/>
            Sua senha será salva criptografada.<br/>
 
 
