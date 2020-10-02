@@ -10,7 +10,7 @@ Erro ao tentar criar alguma conta já existente:
 <img src="https://imgur.com/Jpyx7Gi">
 
 Ná pagina de login colocando a senha ou email errado:
-<img src="https://imgur.com/qLIlOy2">
+<img src="https://i.imgur.com/qLIlOy2.jpg">
 
 Colocando o email e senha corretos:
 <img src="https://imgur.com/6RyMwdl">
